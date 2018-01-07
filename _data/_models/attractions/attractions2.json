@@ -1,14 +1,5 @@
 {
-    "title": "Joe's Coffee",
-    "sub_title": "Get caffeinated",
-    "featured": true,
-    "category": "Restaurants",
-    "description": "<p>Open early, stop by for your morning pick-me-up and local gossip.</p>",
-    "image": {
-      "url": "/assets/stock_images/breakfast.jpg",
-      "alt": "Joe's breakfast"
-    },
-    "latitude": 40.7517385,
-    "longitude": -73.97281210000002,    
-    "order": 1
+  "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1400&photoreference=CmRaAAAAMkzYPk0MtuApKNPeBmNgNXcBJK5mOadc6jAbnEZue795Hgnr2GtiTxIyG5-UXGWK60_s80WfLwmoreyjx8FdXMi2zrc-L7MUz0_1dIqbX_MOY0ajtf5nKI2E2BuLR-bgEhBVcspZERkJKmjPx8KP-9urGhTsl5OibulvMlJPopO3wmTtfjm5qg&sensor=false&key=AIzaSyCT16upP_-vtI68MBa2YGCmdSoRM73r4nY",
+  "order": 2,
+  "hidden": false
 }

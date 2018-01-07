@@ -1,9 +1,5 @@
 {
-    "title": "Another sight",
-    "featured": false,
-    "category": "Sights",
-    "description": "<p>You should check it out</p>",
-    "latitude": 40.7517385,
-    "longitude": -73.98081210000002,    
-    "order": 1
+  "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1400&photoreference=CmRaAAAAnPmZ19jy9-_rcWR7CEewkMcYXwK-wRjgPR6TEQ69iY_zofb4wQIUdqe2T1ZOKAx0nPAPUPACVORkJ1_t9xiU4-We05ycaNk_8EJhZE1us3JnT72yQurJThny5d_Q7uhbEhBxNPKlYoMJnwXiPdAYR5PRGhSb9oGx7XlvuorRukRAF6wzDIBFtA&sensor=false&key=AIzaSyCT16upP_-vtI68MBa2YGCmdSoRM73r4nY",
+  "order": 3,
+  "hidden": false
 }
